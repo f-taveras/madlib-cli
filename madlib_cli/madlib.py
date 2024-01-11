@@ -1,6 +1,3 @@
-
-
-
 def read_template(path):
     with open(path, 'r') as file:
         contents = file.read().strip()
